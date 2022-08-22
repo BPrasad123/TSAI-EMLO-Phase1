@@ -1,5 +1,10 @@
 # Topics to cover #
 
+The program is newly started in the month of August. Stay tuned more details :)
+
+
+
+
 ## Introduction to MLOps, Initial Setup and Hello World ##
 ## Introduction to Cookiecutter and COG ##
 ## Data Version Control and Experiment Tracking ##
